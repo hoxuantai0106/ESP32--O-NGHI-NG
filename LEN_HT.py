@@ -23,8 +23,8 @@ BTN_K4 = Pin(13, Pin.IN, Pin.PULL_UP) # Đo / Xác nhận
 
 # Biến dự án
 project_name = "DUAN-01"
-n_meters = 14        
-current_m = 14       
+n_meters = 10        
+current_m = 10      
 save_count = 0       # Bắt đầu từ 0 lần lưu
 chars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ -"
 
